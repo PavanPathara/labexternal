@@ -3,6 +3,6 @@ public class celsius
 public static void main (String args[])
 { float Fahrenheit, celsius;
 Fahrenheit = 43;
-Celsius = ((Fahrenheit-32)*5)/9;
+celsius = ((Fahrenheit-32)*5)/9;
 System.out.println("Temperature in celsius is: "+celsius);
 }}
